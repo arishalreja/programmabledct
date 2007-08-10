@@ -1,0 +1,421 @@
+{D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/CLKGEN.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/CLKGEN.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package textio
+-- Loading package mdct_pkg
+-- Loading package mdcttb_pkg
+-- Compiling entity clkgen
+-- Compiling architecture sim of clkgen
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart_rx.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart_rx.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_rx
+-- Compiling architecture rx_uart_arch of uart_rx
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT_TB.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT_TB.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity tb_mdct
+-- Compiling architecture tb of tb_mdct
+-- Loading package std_logic_arith
+-- Loading package std_logic_signed
+-- Loading entity dpmem
+-- Loading entity wboprt08
+-- Compiling configuration conf_mdct
+-- Loading entity tb_mdct
+-- Loading architecture tb of tb_mdct
+-- Loading package math_real
+-- Loading package textio
+-- Loading package mdcttb_pkg
+-- Loading entity clkgen
+-- Loading package std_logic_textio
+-- Loading package rng
+-- Loading entity inpimage
+-- Compiling configuration conf_mdct_timing
+-- Loading entity tb_mdct
+-- Loading architecture tb of tb_mdct
+-- Loading entity wboprt08
+-- Loading entity clkgen
+-- Loading entity inpimage
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_engine.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_engine.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity cpu_engine
+-- Compiling architecture behavioral of cpu_engine
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/test_old.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/test_old.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package cpu_pack
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_pack.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_pack.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling package cpu_pack
+-- Compiling package body cpu_pack
+-- Loading package cpu_pack
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart_tx.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart_tx.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_tx
+-- Compiling architecture tx_uart_arch of uart_tx
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart._baudgen.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart._baudgen.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_baudgen
+-- Compiling architecture behavioral of uart_baudgen
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/opcode_decoder.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/opcode_decoder.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity opcode_decoder
+-- Compiling architecture behavioral of opcode_decoder
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Memorybuffer.vhdl} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Memorybuffer.vhdl}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_signed
+-- Compiling entity dpmem
+-- Compiling architecture dpmem_v1 of dpmem
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCTTB_PKG.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCTTB_PKG.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package math_real
+-- Loading package textio
+-- Loading package mdct_pkg
+-- Compiling package mdcttb_pkg
+-- Compiling package body mdcttb_pkg
+-- Loading package mdcttb_pkg
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_test.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu_test.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package cpu_pack
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Board_cpu.vhd} {0 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Board_cpu.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+** Error: (vcom-7) Failed to open ini file "C:\Modeltech_xe_starter\win32xoem/../xilinx.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Board_cpu.vhd(17): Library unisim not found.
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Board_cpu.vhd(18): (vcom-1136) Unknown identifier "unisim".
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/Board_cpu.vhd(20): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 13.0} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DCT1D.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DCT1D.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity dct1d
+-- Compiling architecture rtl of dct1d
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/mem_content.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/mem_content.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling package mem_content
+-- Compiling package body mem_content
+-- Loading package mem_content
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WB_spmem.vhd} {0 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WB_spmem.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+** Error: (vcom-7) Failed to open ini file "C:\Modeltech_xe_starter\win32xoem/../xilinx.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+** Error: (vcom-7) Failed to open ini file "C:\Modeltech_xe_starter\win32xoem/../xilinx.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+** Error: (vcom-13) Recompile memlib.mem_pkg because C:\Modeltech_xe_starter\win32xoem/../ieee.std_logic_1164 has changed.
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WB_spmem.vhd(50): (vcom-1195) Cannot find expanded name: 'memlib.mem_pkg'.
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WB_spmem.vhd(50): Unknown record element "mem_pkg".
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WB_spmem.vhd(52): VHDL Compiler exiting
+
+} {5.0 6.0 7.0 8.0 9.0 13.0} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/random1.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/random1.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Compiling package rng
+-- Compiling package body rng
+-- Loading package rng
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/INPIMAGE.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/INPIMAGE.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package textio
+-- Loading package std_logic_textio
+-- Loading package mdct_pkg
+-- Loading package math_real
+-- Loading package mdcttb_pkg
+-- Loading package rng
+-- Compiling entity inpimage
+-- Compiling architecture sim of inpimage
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/spmem_new.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/spmem_new.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Compiling entity spmem_ent
+-- Compiling architecture spmem_beh of spmem_ent
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/uart.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart
+-- Compiling architecture behavioral of uart
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/test.vhdl} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/test.vhdl}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package cpu_pack
+-- Loading package mdct_pkg
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+-- Loading package std_logic_arith
+-- Loading package std_logic_signed
+-- Loading entity dpmem
+-- Loading entity wboprt08
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DBUFCTL.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DBUFCTL.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity dbufctl
+-- Compiling architecture rtl of dbufctl
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/bin_to_7segment.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/bin_to_7segment.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bin_to_7segment
+-- Compiling architecture behavioral of bin_to_7segment
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ROMO.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ROMO.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity romo
+-- Compiling architecture rtl of romo
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/temperature.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/temperature.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity temperature
+-- Compiling architecture behavioral of temperature
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/BaudGen.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/BaudGen.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Compiling entity baudgen
+-- Compiling architecture behavioral of baudgen
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WBOPRT08.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/WBOPRT08.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Loading package std_logic_arith
+-- Loading package std_logic_signed
+-- Loading entity dpmem
+-- Compiling entity wboprt08
+-- Compiling architecture wboprt081 of wboprt08
+-- Loading entity mdct
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/RAM.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/RAM.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity ram
+-- Compiling architecture rtl of ram
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity mdct
+-- Compiling architecture rtl of mdct
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/input_output.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/input_output.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity input_output
+-- Compiling architecture behavioral of input_output
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu.vhd} {0 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+** Error: (vcom-7) Failed to open ini file "C:\Modeltech_xe_starter\win32xoem/../xilinx.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu.vhd(7): Library unisim not found.
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu.vhd(8): (vcom-1136) Unknown identifier "unisim".
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/cpu.vhd(10): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 13.0} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/select_yy.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/select_yy.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity select_yy
+-- Compiling architecture behavioral of select_yy
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/memory.vhd} {0 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/memory.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+** Error: (vcom-7) Failed to open ini file "C:\Modeltech_xe_starter\win32xoem/../xilinx.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/memory.vhd(8): Library unisim not found.
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/memory.vhd(9): (vcom-1136) Unknown identifier "unisim".
+-- Loading package cpu_pack
+-- Loading package mem_content
+** Error: D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/memory.vhd(14): VHDL Compiler exiting
+
+} {7.0 8.0 9.0 11.0 13.0 14.0} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT_PKG.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/MDCT_PKG.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling package mdct_pkg
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DCT2D.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/DCT2D.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity dct2d
+-- Compiling architecture rtl of dct2d
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/data_core.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/data_core.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity data_core
+-- Compiling architecture behavioral of data_core
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/alu8.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/alu8.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity alu8
+-- Compiling architecture behavioral of alu8
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ROME.VHD} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ROME.VHD}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package mdct_pkg
+-- Compiling entity rome
+-- Compiling architecture rtl of rome
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/opcode_fetch.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/opcode_fetch.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity opcode_fetch
+-- Compiling architecture behavioral of opcode_fetch
+
+} {} {}} {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ds1722.vhd} {1 {vcom -work work -2002 -explicit {D:/My Documents/course/4273 dsp chip/project/MCU/16bitMCU (4)/vhdl/ds1722.vhd}
+Model Technology ModelSim XE III vcom 6.2c Compiler 2006.08 Aug 26 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity ds1722
+-- Compiling architecture ds1722_arch of ds1722
+
+} {} {}}

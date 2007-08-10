@@ -1,0 +1,4 @@
+include $CDS_INST_DIR/tools/inca/files/cds.lib
+define memLib ./memLib
+undefine ambit
+define utility ./utility

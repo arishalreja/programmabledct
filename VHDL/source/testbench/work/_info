@@ -1,0 +1,548 @@
+m255
+13
+cModel Technology
+dC:\temp\16bitMCU\vhdl
+Eclkgen
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/CLKGEN.VHD
+l0
+L29
+VlbQFh4CbNNC_P3niK<<3>2
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Asim
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work clkgen lbQFh4CbNNC_P3niK<<3>2
+l41
+L37
+VkVY6e;QQmN1=Me<9T3S_C3
+OX;C;6.2c;35
+31
+M6 ieee std_logic_1164
+M5 ieee numeric_std
+M4 work mdcttb_pkg
+M3 ieee math_real
+M2 std textio
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Cconf_mdct
+atb
+etb_mdct
+DE work wboprt08 >a1HPeYzgMiOK:KkPdn@]0
+DE work clkgen lbQFh4CbNNC_P3niK<<3>2
+DP work rng nd=C3BRRT0=<QBJUl0kCm0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee std_logic_textio TzP8amQ3MQHVHWIbf5D:93
+DE work inpimage i9klRAhSC?HfAeGjK^9k52
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DA work tb_mdct tb hiU9g7Nl8:Ne;k[`09<bZ1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work tb_mdct 30UbezWgI_O^oYhPmUTQb0
+w1176042694
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/MDCT_TB.VHD
+l0
+L205
+VM=SH4oY7Mo9OWz5j=nU8i1
+OX;C;6.2c;35
+31
+M10 ieee std_logic_1164
+M9 work mdct_pkg
+M8 ieee numeric_std
+M7 ieee std_logic_signed
+M6 ieee std_logic_arith
+M5 ieee std_logic_textio
+M4 std textio
+M3 work mdcttb_pkg
+M2 ieee math_real
+M1 work rng
+o-work work -93 -explicit -O0
+tExplicit 1
+Cconf_mdct_timing
+atb
+etb_mdct
+DE work wboprt08 >a1HPeYzgMiOK:KkPdn@]0
+DE work clkgen lbQFh4CbNNC_P3niK<<3>2
+DP work rng nd=C3BRRT0=<QBJUl0kCm0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee std_logic_textio TzP8amQ3MQHVHWIbf5D:93
+DE work inpimage i9klRAhSC?HfAeGjK^9k52
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DA work tb_mdct tb hiU9g7Nl8:Ne;k[`09<bZ1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work tb_mdct 30UbezWgI_O^oYhPmUTQb0
+w1176042694
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/MDCT_TB.VHD
+l0
+L223
+Vo`oOfl>lP^FS0;bO;NOkH2
+OX;C;6.2c;35
+31
+M10 ieee std_logic_1164
+M9 work mdct_pkg
+M8 ieee numeric_std
+M7 ieee std_logic_signed
+M6 ieee std_logic_arith
+M5 ieee std_logic_textio
+M4 std textio
+M3 work mdcttb_pkg
+M2 ieee math_real
+M1 work rng
+o-work work -93 -explicit -O0
+tExplicit 1
+Edbufctl
+w1175101414
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/DBUFCTL.VHD
+l0
+L28
+VnTooM^aVT52cSgBeJ:D212
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work dbufctl nTooM^aVT52cSgBeJ:D212
+l47
+L42
+VQo6[Y7D^OX_M?FJnR14_@2
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 work mdct_pkg
+M1 ieee numeric_std
+o-work work -93 -explicit -O0
+tExplicit 1
+Edct1d
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/DCT1D.vhd
+l0
+L34
+VDPB11Q^amORPfF;oI0EZk0
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work dct1d DPB11Q^amORPfF;oI0EZk0
+l105
+L89
+VS>RU0ZY38GG1BK=?:f?lP2
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Edct2d
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/DCT2D.VHD
+l0
+L31
+V60>MkcU>_eA6gkaNOPaAZ1
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work dct2d 60>MkcU>_eA6gkaNOPaAZ1
+l109
+L91
+VO_<KH<MJ1zTAETWg7=hnB2
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Edpmem
+w1176050081
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/Memorybuffer.vhdl
+l0
+L12
+VXHRZQk8kjJb`b<Pn2nJ^F3
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Adpmem_v1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work dpmem XHRZQk8kjJb`b<Pn2nJ^F3
+l49
+L28
+VbC@?eFm0O5>d`o_kRA74E3
+OX;C;6.2c;35
+31
+M4 ieee std_logic_1164
+M3 ieee std_logic_signed
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -93 -explicit -O0
+tExplicit 1
+Einpimage
+w1175101414
+DP work rng nd=C3BRRT0=<QBJUl0kCm0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee std_logic_textio TzP8amQ3MQHVHWIbf5D:93
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/INPIMAGE.VHD
+l0
+L34
+Vi9klRAhSC?HfAeGjK^9k52
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Asim
+DP work rng nd=C3BRRT0=<QBJUl0kCm0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee std_logic_textio TzP8amQ3MQHVHWIbf5D:93
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work inpimage i9klRAhSC?HfAeGjK^9k52
+l66
+L51
+VRigjn_h[6?L^o^TLfLDkP2
+OX;C;6.2c;35
+31
+M8 ieee std_logic_1164
+M7 ieee numeric_std
+M6 ieee std_logic_textio
+M5 std textio
+M4 work mdct_pkg
+M3 work mdcttb_pkg
+M2 ieee math_real
+M1 work rng
+o-work work -93 -explicit -O0
+tExplicit 1
+Emdct
+w1175101414
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/MDCT.VHD
+l0
+L32
+VC<<;@aU>cN^R3CZh4f5c62
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work mdct C<<;@aU>cN^R3CZh4f5c62
+l325
+L49
+VLTYW>9cD85j2<hdSHMbkF1
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 work mdct_pkg
+M1 ieee numeric_std
+o-work work -93 -explicit -O0
+tExplicit 1
+Pmdct_pkg
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+w1175101414
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/MDCT_PKG.vhd
+l0
+L27
+VKT5j4V23nWz]hB`6W[f`43
+OX;C;6.2c;35
+31
+M2 ieee std_logic_1164
+M1 ieee numeric_std
+o-work work -93 -explicit -O0
+tExplicit 1
+Pmdcttb_pkg
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+w1175101416
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/MDCTTB_PKG.vhd
+l0
+L34
+Vn4^hcVbn;]7SZ9^5jPL^_1
+OX;C;6.2c;35
+31
+b1
+M5 ieee std_logic_1164
+M4 ieee numeric_std
+M3 ieee math_real
+M2 std textio
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Bbody
+DB work mdcttb_pkg n4^hcVbn;]7SZ9^5jPL^_1
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP std textio GM48jMchdzVHzW0oE8@Rz0
+DP ieee math_real l?5D_^9Nn^E1PE31LfTL01
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+l0
+L34
+Vf5DNM0kY7HM<>mN@aEZ_23
+OX;C;6.2c;35
+31
+M5 ieee std_logic_1164
+M4 ieee numeric_std
+M3 ieee math_real
+M2 std textio
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+nbody
+Eram
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/RAM.VHD
+l0
+L33
+V?FXRm?GK6WoUK9Ioc^?>M0
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work ram ?FXRm?GK6WoUK9Ioc^?>M0
+l51
+L45
+V@?K_3DU[nMj95CCioB6i_2
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Prng
+w1175101416
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/random1.vhd
+l0
+L50
+Vnd=C3BRRT0=<QBJUl0kCm0
+OX;C;6.2c;35
+31
+b1
+o-work work -93 -explicit -O0
+tExplicit 1
+Bbody
+DB work rng nd=C3BRRT0=<QBJUl0kCm0
+l0
+L50
+VYEGS`ZHHUX[NeZ`W?kJg02
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+nbody
+Erome
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/ROME.VHD
+l0
+L32
+VBbik0]X49V16EA1cZd5WD1
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work rome Bbik0]X49V16EA1cZd5WD1
+l121
+L42
+Vmkl95XK=Q8bCZ^Q5=e<`S1
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Eromo
+w1175101414
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/ROMO.VHD
+l0
+L32
+V<oFe06;MAJ0a_nYeQG>Y<0
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Artl
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work romo <oFe06;MAJ0a_nYeQG>Y<0
+l117
+L42
+Vh]XE8>i2EE=m_]YhoNUPA3
+OX;C;6.2c;35
+31
+M3 ieee std_logic_1164
+M2 ieee numeric_std
+M1 work mdct_pkg
+o-work work -93 -explicit -O0
+tExplicit 1
+Etb_mdct
+w1176042694
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/testbench/MDCT_TB.VHD
+l0
+L28
+V30UbezWgI_O^oYhPmUTQb0
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Atb
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DE work wboprt08 >a1HPeYzgMiOK:KkPdn@]0
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work tb_mdct 30UbezWgI_O^oYhPmUTQb0
+l101
+L33
+VhiU9g7Nl8:Ne;k[`09<bZ1
+OX;C;6.2c;35
+31
+M5 ieee std_logic_1164
+M4 work mdct_pkg
+M3 ieee numeric_std
+M2 ieee std_logic_signed
+M1 ieee std_logic_arith
+o-work work -93 -explicit -O0
+tExplicit 1
+Ewboprt08
+w1176047032
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DE work dpmem XHRZQk8kjJb`b<Pn2nJ^F3
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+dD:\My Documents\course\4273 dsp chip\project\DCT\DCT-Code\source\testbench
+FD:/My Documents/course/4273 dsp chip/project/DCT/DCT-Code/source/WBOPRT08.vhd
+l0
+L12
+V>a1HPeYzgMiOK:KkPdn@]0
+OX;C;6.2c;35
+31
+o-work work -93 -explicit -O0
+tExplicit 1
+Awboprt081
+DE work dpmem XHRZQk8kjJb`b<Pn2nJ^F3
+DE work mdct C<<;@aU>cN^R3CZh4f5c62
+DP ieee std_logic_arith nZOE^ao7X8Ta4b=8WV7710
+DP ieee std_logic_signed 1HAE8>oBG0EYh?``^T;1N1
+DP ieee numeric_std [B<>IlO^C:5QIifSg5=@X2
+DP work mdct_pkg KT5j4V23nWz]hB`6W[f`43
+DP ieee std_logic_1164 ZY6AlYbUF[O<4O5;L64Ci2
+DE work wboprt08 >a1HPeYzgMiOK:KkPdn@]0
+l78
+L26
+V>^9@KB[k`nnGFE4b>aYXI0
+OX;C;6.2c;35
+31
+M5 ieee std_logic_1164
+M4 work mdct_pkg
+M3 ieee numeric_std
+M2 ieee std_logic_signed
+M1 ieee std_logic_arith
+o-work work -93 -explicit -O0
+tExplicit 1

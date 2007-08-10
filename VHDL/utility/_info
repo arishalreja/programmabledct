@@ -1,0 +1,37 @@
+m255
+13
+cModel Technology
+dZ:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\vhdl
+Ptools_pkg
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1174746944
+FZ:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Memory/libs/tools_pkg.vhd
+l0
+L50
+V[CILg_4]Hdf2Jig4R^W7V1
+OE;C;6.0a;29
+32
+b1
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work utility -2002 -explicit
+tExplicit 1GenerateLoopIterationMax 100000
+Bbody
+DB work tools_pkg [CILg_4]Hdf2Jig4R^W7V1
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+l0
+L50
+V[CILg_4]Hdf2Jig4R^W7V1
+OE;C;6.0a;29
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work utility -2002 -explicit
+tExplicit 1GenerateLoopIterationMax 100000
+nbody

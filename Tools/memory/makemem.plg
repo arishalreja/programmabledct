@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: makemem - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\gtg342z\LOCALS~1\Temp\RSP1DF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/makemem.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\gtg342z\LOCALS~1\Temp\RSP1DF.tmp" 
+<h3>Output Window</h3>
+Compiling...
+makemem.c
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(180) : error C2275: 'FILE' : illegal use of this type as an expression
+        c:\appl\microsoft visual studio\vc98\include\stdio.h(156) : see declaration of 'FILE'
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(187) : error C2143: syntax error : missing ';' before 'type'
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(190) : error C2065: 'bytes' : undeclared identifier
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(192) : error C2275: 'FILE' : illegal use of this type as an expression
+        c:\appl\microsoft visual studio\vc98\include\stdio.h(156) : see declaration of 'FILE'
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(192) : error C2065: 'out' : undeclared identifier
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(195) : error C2275: 'FILE' : illegal use of this type as an expression
+        c:\appl\microsoft visual studio\vc98\include\stdio.h(156) : see declaration of 'FILE'
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(195) : error C2065: 'ucf' : undeclared identifier
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(198) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(198) : warning C4024: 'write_header' : different types for formal and actual parameter 1
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(198) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(198) : warning C4024: 'write_header' : different types for formal and actual parameter 2
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(199) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(199) : warning C4024: 'write_bank_1' : different types for formal and actual parameter 1
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(199) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(199) : warning C4024: 'write_bank_1' : different types for formal and actual parameter 2
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(200) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(200) : warning C4024: 'write_bank_1' : different types for formal and actual parameter 1
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(200) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(200) : warning C4024: 'write_bank_1' : different types for formal and actual parameter 2
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(201) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(201) : warning C4024: 'write_tail' : different types for formal and actual parameter 1
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(203) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(203) : warning C4024: 'fclose' : different types for formal and actual parameter 1
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(204) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+Z:\ECE4273 - DSP Chip Des. Sp.07\16bitMCU\memory\makemem.c(204) : warning C4024: 'fclose' : different types for formal and actual parameter 1
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+makemem.obj - 7 error(s), 18 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,213 @@
+{Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart
+-- Compiling architecture behavioral of uart
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/bin_to_7segment.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/bin_to_7segment.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bin_to_7segment
+-- Compiling architecture behavioral of bin_to_7segment
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/temperature.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/temperature.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity temperature
+-- Compiling architecture behavioral of temperature
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/BaudGen.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/BaudGen.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Compiling entity baudgen
+-- Compiling architecture behavioral of baudgen
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu.vhd} {0 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): near "VComponents": This version of the compiler is incompatible with the library .dat file.
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): expecting: ARCHITECTURE CONFIGURATION ENTITY LIBRARY PACKAGE USE
+** Error: Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu.vhd(7): VHDL Compiler exiting
+
+} {8.0 11.0} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/input_output.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/input_output.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity input_output
+-- Compiling architecture behavioral of input_output
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/select_yy.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/select_yy.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity select_yy
+-- Compiling architecture behavioral of select_yy
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/memory.vhd} {0 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/memory.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): near "VComponents": This version of the compiler is incompatible with the library .dat file.
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): expecting: ARCHITECTURE CONFIGURATION ENTITY LIBRARY PACKAGE USE
+** Error: Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/memory.vhd(8): VHDL Compiler exiting
+
+} {7.0 10.0} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/data_core.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/data_core.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity data_core
+-- Compiling architecture behavioral of data_core
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/alu8.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/alu8.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity alu8
+-- Compiling architecture behavioral of alu8
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/ds1722.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/ds1722.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity ds1722
+-- Compiling architecture ds1722_arch of ds1722
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/opcode_fetch.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/opcode_fetch.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity opcode_fetch
+-- Compiling architecture behavioral of opcode_fetch
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Memory/spmem/core/spmem.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Memory/spmem/core/spmem.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity spmem_ent
+-- Compiling architecture spmem_beh of spmem_ent
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Memory/spmem/core/WB_spmem.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Memory/spmem/core/WB_spmem.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package tools_pkg
+-- Loading package mem_pkg
+-- Compiling entity wb_spmem
+-- Compiling architecture wb_spmem_rtl of wb_spmem
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_engine.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_engine.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity cpu_engine
+-- Compiling architecture behavioral of cpu_engine
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart_rx.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart_rx.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_rx
+-- Compiling architecture rx_uart_arch of uart_rx
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_pack.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_pack.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling package cpu_pack
+-- Compiling package body cpu_pack
+-- Loading package cpu_pack
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Board_cpu.vhd} {0 {vcom -work work -2002 -explicit -check_synthesis {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Board_cpu.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): near "VComponents": This version of the compiler is incompatible with the library .dat file.
+** Error: C:/Appl/Xilinx/vhdl/src/unisims/unisim_VCOMP.vhd(1): expecting: ARCHITECTURE CONFIGURATION ENTITY LIBRARY PACKAGE USE
+** Error: Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/Board_cpu.vhd(17): VHDL Compiler exiting
+
+} {8.0 11.0} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart._baudgen.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart._baudgen.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_baudgen
+-- Compiling architecture behavioral of uart_baudgen
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart_tx.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/uart_tx.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity uart_tx
+-- Compiling architecture tx_uart_arch of uart_tx
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_test.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/cpu_test.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package cpu_pack
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+
+} {} {}} {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/opcode_decoder.vhd} {1 {vcom -work work -2002 -explicit {Z:/ECE4273 - DSP Chip Des. Sp.07/16bitMCU/vhdl/opcode_decoder.vhd}
+Model Technology ModelSim SE vcom 6.0a Compiler 2004.09 Sep 24 2004
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_pack
+-- Compiling entity opcode_decoder
+-- Compiling architecture behavioral of opcode_decoder
+
+} {} {}}
